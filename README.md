@@ -7,6 +7,10 @@ Newclear (Prononciation [ˈnjuː.klɪə], "new-cleAr" like nuclear) is a contami
 - (re)Newables (both as in new nuclear energy is a renewable and the classic renewables)
 - A "New Clear" image for Nuclear energy. (both as a clear future vision and clear of common misconsceptions)
 
+## Why GitHub?
+
+It's a social media platform with little or no comparison. It enables collaboration and that's exactly what we need to combat climate change. It's also pretty usable even for non-coders (I hope) and is not part of the attention economy/advertising economic model. Given it host's millions of lines of crucially important software it's stability is also a benifit. 
+
 ## Planned
 
 - Logo (in the making in early Alpha design.)
