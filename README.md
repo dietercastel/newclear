@@ -1,5 +1,5 @@
 # Newclear
-The climate problem is first and foremost an energy problem. To produce sufficient energy on a global scale given the current energy growth we will need Nuclear energy. Unfortunately, due to it's history it has an image problem. I propose to rebrand nuclear energy as newclear energy, allmost the same concept with some added connotation.
+The climate problem is first and foremost an energy problem. To produce sufficient clean renewable energy on a global scale given the current energy growth we will need Nuclear energy. Unfortunately, due to it's history it has an image problem. I propose to rebrand nuclear energy as newclear energy, allmost the same concept with some added connotation.
 
 Newclear (Prononciation [ˈnjuː.klɪə], "new-cleAr" like nuclear) is a contamination of three things:
 
