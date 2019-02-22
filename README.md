@@ -9,9 +9,13 @@ Newclear (Prononciation [ˈnjuː.klɪə], "new-cleAr" like nuclear) is a contami
 
 ## Why GitHub?
 
-It's a social media platform with little or no comparison. It enables collaboration and that's exactly what we need to combat climate change. It's also pretty usable even for non-coders (I hope) and is not part of the attention economy/advertising economic model. Given it host's millions of lines of crucially important software it's stability is also a benifit. 
+It's a social media platform with little or no comparison. It enables collaboration and that's exactly what we need to combat climate change. It's also pretty usable even for non-coders (I hope) and is not part of the attention economy/advertising economic model. Given it host's millions of lines of crucially important software it's stability is also a benifit.
+
+## [All Repositories](https://github.com/newclearenergy/)
 
 ## Planned
 
 - Logo (in the making in early Alpha design.)
-- More explanations
+- More explanations in the [Reading List](https://github.com/newclearenergy/readinglist)
+- Peer Article Review model
+- Collaboration with Yera?
