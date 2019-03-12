@@ -19,3 +19,5 @@ It's a social media platform with little or no comparison. It enables collaborat
 - More explanations in the [Reading List](https://github.com/newclearenergy/readinglist)
 - Peer Article Review model
 - Collaboration with Yera?
+- Energy type comparing tool see [Comparer](https://github.com/newclearenergy/readinglist)
+- ... (your idea here) ...
