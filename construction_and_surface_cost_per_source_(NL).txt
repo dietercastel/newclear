@@ -1,0 +1,17 @@
+Hinkley Point C: kost 22bln, vermogen 3.2GW @ 90% capacity factor, 25230GWh per jaar, gaat minstens 50 jaar mee
+Waldpolenz Solar Park: 120mln, 52MW @ 12%, 40GWh per jaar, 2.2km^2, gaat 20 jaar mee
+London Array (wind): 1.8bln, 630MW @ 45%, 2500GWh per jaar, 122km^2, 20 jaar
+Fukushima: 4.7GW, 37060GWh per jaar, 371km^2
+450 kerncentrales wereldwijd, 3 kernrampen (waarvan 1 ondertussen volledig opgeruimd, 14 jaar na de ramp): 0.7% kans dus op een ramp
+
+Conclusies: wind en solar zijn 10x duurder om te bouwen en vereisen 400x meer landgebruik voor het zelfde reele vermogen.
+
+Constructie cost:
+* worst case nucleair kost 17eur per MWh
+* solar: 150eur per MWh
+* wind: 143eur per MWh
+
+Oppervlakgebruik:
+* nucleair: 0.9km^2/GW
+* solar: 352km^2/GW
+* wind: 430km^2/GW (wind op zee kun je tussen varen al weet ik niet of tankers dat ook echt doen, tussen windmolens op land wil niemand wonen, daar kun je hoogstens industrie zetten)
