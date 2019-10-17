@@ -16,8 +16,10 @@ It's a social media platform with little or no comparison. It enables collaborat
 ## Planned
 
 - Logo (in the making in early Alpha design.)
+- A [Website (under construction)](https://github.com/newcleartwh/newcleartwh.github.io)
 - More explanations in the [Reading List](https://github.com/newclearenergy/readinglist)
 - Peer Article Review model
 - Collaboration with Yera?
+- Collaboration with 100TWH?
 - Energy type comparing tool see [Comparer](https://github.com/newclearenergy/readinglist)
 - ... (your idea here) ...
